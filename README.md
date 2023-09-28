@@ -6,21 +6,15 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=shamstabraiz alt=shamstabraiz/> </p>
 
 ```js
-
 console.log("Holla!! 👋");
-
 ```
 
 ```go
-
 fmt.Println("Holla!! 👋");
-
 ```
 
 ```php
-
 echo "Holla!! 👋";
-
 ```
 
 <p align="center"> 
