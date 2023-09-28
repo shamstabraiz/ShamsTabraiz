@@ -27,7 +27,7 @@ console.log("Holla!! 👋");
   <img src="https://git-states.vercel.app/api/top-langs/?username=shamstabraiz&layout=donut&theme=tokyonight" alt="shamstabraiz" />
 </p>
 <p align="center">
-  <img src="https://git-states.vercel.app/api/wakatime?username=shamstabraiz\&layout=compact" alt="shamstabraiz" />
+  <img src="https://git-states.vercel.app/api/wakatime?username=shamstabraiz&layout=compact" alt="shamstabraiz" />
 </p>
 
 
