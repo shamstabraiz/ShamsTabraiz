@@ -28,9 +28,9 @@ console.log("Holla!! 👋");
 </p>
 <!-- <p align="center">
   <img src="" alt="shamstabraiz" />
+![Shams GitHub stats](https://git-states.vercel.app/api/wakatime/?username=shamstabraiz&layout=compact)
 </p> -->
 
-![Shams GitHub stats](https://git-states.vercel.app/api/wakatime/?username=shamstabraiz&layout=compact)
 
 
 <!--
