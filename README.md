@@ -21,9 +21,9 @@ console.log("Holla!! 👋");
 </p>
 
 <!-- Cards -->
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=shamstabraiz&show_icons=true&theme=tokyonight alt=shamstabraiz /> </p>
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=shamstabraiz&show_icons=true&theme=tokyonight&count-private=true alt=shamstabraiz /> </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamstabraiz&theme=tokyonight" alt="shamstabraiz" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamstabraiz&theme=tokyonight&count-private=true" alt="shamstabraiz" /></p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamstabraiz&layout=compact&theme=tokyonight&hide=java&langs_count=10" alt="shamstabraiz" />
