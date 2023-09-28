@@ -10,6 +10,16 @@
 console.log("Holla!! 👋");
 
 ```
+```go
+
+fmt.println("Holla!! 👋");
+
+```
+```php
+
+echo Holla!! 👋;
+
+```
 
 <p align="center"> 
 <a href=https://twitter.com/shamstabraiz91 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="shamstabraiz9514" height="25" width="25" target="_blank"/></a>
