@@ -12,12 +12,12 @@ console.log("Holla!! 👋");
 ```
 ```go
 
-fmt.println("Holla!! 👋");
+fmt.Println("Holla!! 👋");
 
 ```
 ```php
 
-echo Holla!! 👋;
+echo "Holla!! 👋";
 
 ```
 
