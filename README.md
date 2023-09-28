@@ -30,6 +30,7 @@ console.log("Holla!! 👋");
   <img src="https://git-states.vercel.app/api/wakatime?username=shamstabraiz&layout=compact" alt="shamstabraiz" />
 </p> -->
 
+![Shams GitHub stats](https://git-states.vercel.app/api?username=shamstabraiz&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
 <!--
