@@ -24,9 +24,8 @@ console.log("Holla!! 👋");
 <p align="center"> <img src=https://git-states.vercel.app/api?username=shamstabraiz&show_icons=true&theme=tokyonight&count-private=true alt=shamstabraiz /> </p>
 
 <p align="center"><img align="center" src="https://git-states.vercel.app/?user=shamstabraiz&theme=tokyonight&count-private=true" alt="shamstabraiz" /></p>
-
 <p align="center">
-  <img src="https://git-states.vercel.app/api/top-langs/?username=shamstabraiz&layout=compact&theme=tokyonight&hide=java&langs_count=10" alt="shamstabraiz" />
+  <img src="https://git-states.vercel.app/api/top-langs/?username=shamstabraiz&layout=donut&theme=tokyonight" alt="shamstabraiz" />
 </p>
 <!--
 **ShamsTabraiz/shamstabraiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
