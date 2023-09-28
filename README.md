@@ -21,16 +21,16 @@ console.log("Holla!! 👋");
 </p>
 
 <!-- Cards -->
-<p align="center"> <img src=https://git-states.vercel.app/api?username=shamstabraiz&show_icons=true&theme=tokyonight&count-private=true&rank_icon=github alt=shamstabraiz /> </p>
+<p align="center"> <img src="https://git-states.vercel.app/api?username=shamstabraiz&show_icons=true&theme=tokyonight&count-private=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt=shamstabraiz /> </p>
 
 <p align="center">
   <img src="https://git-states.vercel.app/api/top-langs/?username=shamstabraiz&layout=donut&theme=tokyonight" alt="shamstabraiz" />
 </p>
 <!-- <p align="center">
-  <img src="https://git-states.vercel.app/api/wakatime?username=shamstabraiz&layout=compact" alt="shamstabraiz" />
+  <img src="" alt="shamstabraiz" />
 </p> -->
 
-![Shams GitHub stats](https://git-states.vercel.app/api?username=shamstabraiz&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Shams GitHub stats](https://git-states.vercel.app/api/wakatime?username=shamstabraiz&layout=compact)
 
 
 <!--
