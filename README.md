@@ -1,4 +1,5 @@
 <p align="center"> <img src="https://octodex.github.com/images/vinyltocat.png" height="20%" width="20%"> <img src="https://octodex.github.com/images/steroidtocat.png" height="20%" width="20%"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="20%" width="20%"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="20%" width="20%"></p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=ShamsTabraiz" alt="ShamsTabraiz" /></p>
 
 <h1 align="center">Hi there, I'm <a href="https://www.instagram.com/shamstabraiz81/"  target="_blank">Shams!</a> 👋</h1>
     
