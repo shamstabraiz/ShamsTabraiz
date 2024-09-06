@@ -2,7 +2,9 @@
 <h1 align="center">Hi there, I'm <a href="https://www.instagram.com/shamstabraiz81/"  target="_blank">Shams!</a> 👋</h1>
     
 <h3 align="center">A passionate full-stack developer from Hunza</h3>
-
+<div align="left">
+<img src="https://komarev.com/ghpvc/?username=shamstabraiz&&style=flat-square" align="left" />
+</div>  
 ```js
 console.log("Holla!! 👋");
 ```
@@ -132,6 +134,8 @@ echo "Holla!! 👋";
     <p align="center"> <img src=https://git-states.vercel.app/api?username=shamstabraiz&show_icons=true&theme=tokyonight&count-private=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage alt=shamstabraiz /> </p>
     </div>
   </td>
+</tr>
+<tr>
   <td valign="top" width="50%">
     <div align="center">  
     <p align="center">
