@@ -128,7 +128,7 @@ echo "Holla!! 👋";
     <td valign="top" width="50%">
     <div align="center">  
     <p align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamstabraiz&theme=algolia" alt="shamstabraiz" />
+      <img src="https://git-states.vercel.app/api/top-langs/?username=shamstabraiz&layout=donut&theme=tokyonight" alt="shamstabraiz" />
     </p>
     </div>
   </td>
@@ -140,7 +140,7 @@ echo "Holla!! 👋";
 <td valign="top" width="100%">
     <div align="center">  
     <p align="center">
-      <img src="https://git-states.vercel.app/api/top-langs/?username=shamstabraiz&layout=donut&theme=tokyonight" alt="shamstabraiz" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamstabraiz&theme=algolia" alt="shamstabraiz" />
     </p>
     </div>
   </td>
