@@ -118,7 +118,7 @@ echo "Holla!! 👋";
 
 
 
-<table>
+<table align="center" width="100%">
 <tr>
   <td valign="top" width="100%">
     <div align="center">  
