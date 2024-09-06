@@ -37,10 +37,10 @@ echo "Holla!! 👋";
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamstabraiz&theme=algolia" alt="shamstabraiz" />
 </p>
-<!-- <p align="center">
+<p align="center">
   <img src="" alt="shamstabraiz" />
 ![Shams GitHub stats](https://git-states.vercel.app/api/wakatime/?username=shamstabraiz&layout=compact)
-</p> -->
+</p>
 
 
 
