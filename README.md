@@ -134,6 +134,9 @@ echo "Holla!! 👋";
   </td>
 </tr>
 <tr>
+</table>  
+
+<table align="center" width="100%">
 <td valign="top" width="100%">
     <div align="center">  
     <p align="center">
