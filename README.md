@@ -116,7 +116,19 @@ echo "Holla!! 👋";
 
 
 
-<table><tr><td valign="top" width="25%">
+<table><tr><td valign="top" width="100%">
+<div align="center">  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamstabraiz&theme=algolia" alt="shamstabraiz" />
+</p>
+</div>
+</td></tr>
+<tr>
+<td valign="top" width="50%">
+<div align="center">  
+<p align="center"> <img src=https://git-states.vercel.app/api?username=shamstabraiz&show_icons=true&theme=tokyonight&count-private=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage alt=shamstabraiz /> </p>
+</div>
+<td valign="top" width="50%">
 
 <div align="center">  
 
@@ -125,17 +137,7 @@ echo "Holla!! 👋";
 </p>
 </div>
 
-</td><td valign="top" width="50%">
-<div align="center">  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamstabraiz&theme=algolia" alt="shamstabraiz" />
-</p>
- 
-</div>
-
-</td><td valign="top" width="25%">
-<div align="center">  
-<p align="center"> <img src=https://git-states.vercel.app/api?username=shamstabraiz&show_icons=true&theme=tokyonight&count-private=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage alt=shamstabraiz /> </p>
-</div>
-
-</td></tr></table>  
+</td>
+</td>
+</tr>
+</table>  
