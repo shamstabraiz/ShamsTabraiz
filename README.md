@@ -120,7 +120,6 @@ echo "Holla!! 👋";
 
 <table align="center" width="100%">
 <tr>
-
    <td valign="top" width="50%">
     <div align="center">  
     <p align="center"> <img src=https://git-states.vercel.app/api?username=shamstabraiz&show_icons=true&theme=tokyonight&count-private=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage alt=shamstabraiz /> </p>
@@ -133,14 +132,14 @@ echo "Holla!! 👋";
     </p>
     </div>
   </td>
-    <td valign="top" width="25%">
+</tr>
+<tr>
+<td valign="top" width="100%">
     <div align="center">  
     <p align="center">
       <img src="https://git-states.vercel.app/api/top-langs/?username=shamstabraiz&layout=donut&theme=tokyonight" alt="shamstabraiz" />
     </p>
     </div>
   </td>
-</tr>
-
 </tr>
 </table>  
