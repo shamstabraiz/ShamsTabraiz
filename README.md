@@ -2,10 +2,8 @@
 <h1 align="center">Hi there, I'm <a href="https://www.instagram.com/shamstabraiz81/"  target="_blank">Shams!</a> 👋</h1>
     
 <h3 align="center">A passionate full-stack developer from Hunza</h3>
-<div align="left">
-<img src="https://komarev.com/ghpvc/?username=shamstabraiz&&style=flat-square" align="left" />
-</div>  
-
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=shamstabraiz alt=shamstabraiz/> </p>
+<br/>
 ```js
 console.log("Holla!! 👋");
 ```
