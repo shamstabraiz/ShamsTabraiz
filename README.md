@@ -6,19 +6,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6CE4F7&center=true&vCenter=true&random=false&width=435&lines=Building+modern+web+applications;JavaScript+%7C+TypeScript+%7C+React;Node.js+%7C+Laravel+%7C+MongoDB" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <a href="https://www.instagram.com/shamstabraiz81/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-00aeff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-  <img src="https://komarev.com/ghpvc/?username=shamstabraiz&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-</p>
-
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 
 ## 💫 About Me
 
 - 🔭 I'm currently working on **innovative web applications**
 - 🌱 I'm learning **Cloud Architecture & DevOps**
-- 💻 I specialize in **SaaS applications, PHP development, Laravel, WordPress & Shopify**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **JavaScript, React, Node.js, and Full-Stack Development**
 - 🏡 From the beautiful valleys of **Hunza, Pakistan**
@@ -86,10 +79,6 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shamstabraiz&theme=radical&column=7&no-frame=true&no-bg=true" alt="trophy" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/shamstabraiz/shamstabraiz/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
 <div align="center">
