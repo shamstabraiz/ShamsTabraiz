@@ -16,8 +16,9 @@
 
 ## 💫 About Me
 
-- 🔭 I'm currently working on **innovative web applications**
+- 🔭 I'm currently working on **innovative web applications & Chrome extensions**
 - 🌱 I'm learning **Cloud Architecture & DevOps**
+- 💻 I specialize in **SaaS applications, PHP development, Laravel, WordPress & Shopify**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **JavaScript, React, Node.js, and Full-Stack Development**
 - 🏡 From the beautiful valleys of **Hunza, Pakistan**
@@ -87,6 +88,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=shamstabraiz&theme=radical&column=7&no-frame=true&no-bg=true" alt="trophy" />
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/shamstabraiz/shamstabraiz/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
