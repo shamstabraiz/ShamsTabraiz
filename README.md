@@ -16,7 +16,7 @@
 
 ## 💫 About Me
 
-- 🔭 I'm currently working on **innovative web applications & Chrome extensions**
+- 🔭 I'm currently working on **innovative web applications**
 - 🌱 I'm learning **Cloud Architecture & DevOps**
 - 💻 I specialize in **SaaS applications, PHP development, Laravel, WordPress & Shopify**
 - 👯 I'm looking to collaborate on **open source projects**
